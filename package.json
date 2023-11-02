@@ -1,0 +1,26 @@
+{
+  "name": "farm-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "farm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^5.10.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@farmfe/cli": "^0.5.8",
+    "@farmfe/core": "^0.13.19",
+    "@farmfe/plugin-react": "^0.3.4",
+    "@farmfe/plugin-sass": "^0.2.9",
+    "@types/react": "^18.2.34",
+    "@types/react-dom": "^18.2.14",
+    "react-refresh": "^0.14.0"
+  }
+}
